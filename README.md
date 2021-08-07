@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on [ITR](http://www.itr.com.vn/) company.
-- 🌱 I’m currently learning IT in [CICT](http://www.cit.ctu.edu.vn/).
+- 🌱 I’m currently learning IT on [CICT](http://www.cit.ctu.edu.vn/).
 - ⚡ Fun fact: I'm a Newbie. Please, help me more than! I'm willing to learn...
 
 # ⚡ My Hobbies
