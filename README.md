@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a Newbie. Please, help me more than! I'm willing to learn...
 
 # ⚡ My Hobbies
-- :musical_note: I like listenning English music.
+- :musical_note: I like listenning English to music.
 - :book: I really love technical books.
 - :mag_right: Research new technical about programming.
 
