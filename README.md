@@ -24,19 +24,30 @@ Here are some ideas to get you started:
 - :mag_right: Research new technical about programming.
 
 # ⚡ GitHub Stats
+
+<table>
+<thead>
+<tr>
+<th><a href="https://github-readme-streak-stats.herokuapp.com/?user=linhfishCR7" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=linhfishCR7" alt="trophy" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=linhfishCR7&amp;theme=merko" style="max-width: 100%;"></a></th>
+<th><a href="https://github-profile-trophy.vercel.app/?username=linhfishCR7" rel="nofollow"><img src="https://github-profile-trophy.vercel.app/?username=linhfishCR7&amp;theme=darkhub&amp;no-bg=true&amp;row=2&amp;column=3&amp;margin-w=15&amp;margin-h=15" alt="streak" data-canonical-src="https://github-profile-trophy.vercel.app/?username=linhfishCR7&amp;theme=darkhub&amp;no-bg=true&amp;row=2&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;"></a></th>
+</tr>
+</thead>
+</table>
+
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=linhfishCR7.linhfishCR7" />
-<img align="left" src="https://img.shields.io/github/followers/linhfishCR7?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/linhfishCR7?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=linhfishCR7&show_icons=true&theme=merko&count_private=true" />
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhfishCR7&layout=compact&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhfishCR7&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=linhfishCR7&margin-w=15&margin-h=15"
       alt="linhfishCR7"
   /></a>
-</p>
+</p> -->
 
 <!-- <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
