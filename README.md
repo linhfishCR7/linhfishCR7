@@ -23,15 +23,13 @@ Here are some ideas to get you started:
 - :book: I really love technical books.
 - :mag_right: Research new technical about programming.
 
-# ⚡ About My Github Activity
+# ⚡ GitHub Stats
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=linhfishCR7.linhfishCR7" />
-<img align="right" src="https://img.shields.io/github/followers/linhfishCR7?label=Follow&style=social" />
+<img align="left" src="https://img.shields.io/github/followers/linhfishCR7?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=linhfishCR7&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhfishCR7&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhfishCR7&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
-
-# ⚡ GitHub Stats
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
