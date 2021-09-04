@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 </table> -->
 
 # ⚡ Favorite languages and tools
+<p align="center">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -96,7 +97,7 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-
+</p>
 # 📫 How to reach me
 [Twitter](https://twitter.com/LINHFISH6), [Dev.to](https://dev.to/linhfishcr7), [Linkedin](https://www.linkedin.com/in/linh-ha-185741215), [StackOverflow](https://stackoverflow.com/users/13021594/van-linh-ha), [Viblo](https://viblo.asia/u/linhfishCR7)
 
