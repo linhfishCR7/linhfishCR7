@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :musical_note: I like listenning English to music.
 - :book: I really love technical books.
 - :mag_right: Research new technical about programming.
-- 
+
 # ⚡ About My Github Activity
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=linhfishCR7.linhfishCR7" />
 <img align="right" src="https://img.shields.io/github/followers/linhfishCR7?label=Follow&style=social" />
@@ -30,6 +30,15 @@ Here are some ideas to get you started:
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=linhfishCR7&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhfishCR7&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
+
+# ⚡ GitHub Stats
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=linhfishCR7&margin-w=15&margin-h=15"
+      alt="linhfishCR7"
+  /></a>
+</p>
 
 <!-- <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
