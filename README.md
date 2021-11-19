@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as collaborators on [ITR](http://www.itr.com.vn/) company.
+- 🔭 I’m currently working as Junior Backend Developer on [APPCORE](http://appcore.com.vn/) company.
 - 🌱 I’m currently learning IT on [CICT](http://www.cit.ctu.edu.vn/).
 - ⚡ Fun fact: I'm a Newbie. Please, help me more than! I'm willing to learn...
 
