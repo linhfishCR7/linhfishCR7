@@ -108,3 +108,5 @@ Here are some ideas to get you started:
 
 # ⚡ My Persional website
 [HAVANLINH](https://havanlinh.tech/)
+
+<a href="https://app.daily.dev/FishWalker"><img src="https://api.daily.dev/devcards/76d2cb5b3bac47cb8bd076136eccf5c5.png?r=yci" width="400" alt="Fish Walker's Dev Card"/></a>
