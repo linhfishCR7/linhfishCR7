@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 </p>
 
 # 📫 How to reach me
-[Twitter](https://twitter.com/LINHFISH6), [Dev.to](https://dev.to/linhfishcr7), [Linkedin](https://www.linkedin.com/in/linh-ha-185741215), [StackOverflow](https://stackoverflow.com/users/13021594/van-linh-ha), [Viblo](https://viblo.asia/u/linhfishCR7)
+[Twitter](https://twitter.com/LINHFISH6), [Dev.to](https://dev.to/linhfishcr7), [Linkedin](https://www.linkedin.com/in/linh-ha-185741215), [StackOverflow](https://stackoverflow.com/users/13021594/van-linh-ha), [Viblo](https://viblo.asia/u/linhfishCR7), [daily.dev](https://app.daily.dev)
 
 # ⚡ My Blog share about programming
 [LINHFISHCR7](https://linhfishcr7.wordpress.com/)
