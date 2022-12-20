@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as collaborators on [ITR](http://www.itr.com.vn/) company.
+- 🔭 I’m currently working as a collaborator on [ITR](http://www.itr.com.vn/) company.
 - 🔭 I’m currently working as Junior Backend Developer on [APPCORE](http://appcore.com.vn/) company.
 - 🌱 I graduated IT on [CICT](http://www.cit.ctu.edu.vn/).
-- ⚡ Fun fact: I'm a Newbie. Please, help me more than! I'm willing to learn...
+- ⚡ Fun fact: I'm a Newbie. Please guide me - I'm willing to learn!
 
 # ⚡ My Hobbies
-- :musical_note: I like listenning English to music.
+- :musical_note: I like listening to English music.
 - :book: I really love technical books.
-- :mag_right: Research new technical about programming.
+- :mag_right: Research new programming technologies.
 
 # ⚡ GitHub Stats
 
