@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a collaborator on [ITR](http://www.itr.com.vn/) company.
-- 🔭 I’m currently working as Junior Backend Developer on [APPCORE](http://appcore.com.vn/) company.
+- 🔭 I’m currently working as a team leader on [ITR](http://www.itr.com.vn/) company.
+- 🔭 I used to work as a collaborator on [ITR](http://www.itr.com.vn/) company.
+- 🔭 I used to work as Junior Backend Developer on [APPCORE](http://appcore.com.vn/) company.
 - 🌱 I graduated IT on [CICT](http://www.cit.ctu.edu.vn/).
 - ⚡ Fun fact: I'm a Newbie. Please guide me - I'm willing to learn!
 
